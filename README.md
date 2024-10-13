@@ -1,8 +1,13 @@
 # Drug Effectiveness and Satisfaction Analysis
 
 ## Project Overview
+Overall, this project demonstrated the application of machine learning techniques to real-world healthcare data but also highlighted the critical role that user satisfaction plays in the success of pharmaceutical products. This project analyzed the relationship between drug effectiveness, ease of use, and user satisfaction. I built a predictive model to using linear regression to estimate user satisfaction based on key features: effectiveness and ease of use, and user satisfaction.
 
-This project aims to analyze the relationship between drug effectiveness, ease of use, and user satisfaction. I built a predictive model to estimate satisfaction scores based on the effectiveness and ease of use ratings of various drugs.
+### Model Performance
+The model achieved a R-squared value of approximately 71.9%, indicating that it effectively captures a significant portion of the variability in user satisfaction scores. This suggests that the chosen predictors—effectiveness and ease of use—are strong indicators of user satisfaction with the drugs analyzed.
+
+### Actionable Insights
+The findings could inform healthcare/pharma companies and healthcare providers about the importance of drug effectiveness and user experience in driving patient satisfaction. This knowledge can guide future product development, marketing strategies, and customer engagement efforts.
 
 ## Objectives
 
