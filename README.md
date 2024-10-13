@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to analyze the relationship between drug effectiveness, ease of use, and user satisfaction. We built a predictive model to estimate satisfaction scores based on the effectiveness and ease of use ratings of various drugs.
+This project aims to analyze the relationship between drug effectiveness, ease of use, and user satisfaction. I built a predictive model to estimate satisfaction scores based on the effectiveness and ease of use ratings of various drugs.
 
 ## Objectives
 
